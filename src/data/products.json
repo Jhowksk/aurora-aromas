@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Vela Aromática Lavanda",
+    "price": 5.00,
+    "category": "velas",
+    "featured": true,
+    "description": "Aroma suave e relaxante...",
+    "image": "/src/assets/images/vela.jpeg"
+  },
+  {
+    "id": 2,
+    "name": "Difusor Floral",
+    "price": 15.00,
+    "category": "difusores",
+    "featured": true,
+    "description": "Perfume delicado...",
+    "image": "/src/assets/images/difusor.jpeg"
+  },
+  {
+    "id": 3,
+    "name": "Lembrancinha Aromática",
+    "price": 5.00,
+    "category": "lembrancinhas",
+    "featured": true,
+    "description": "Pequenos frascos perfumados...",
+    "image": "/src/assets/images/lembrancinha.jpeg"
+  },
+  {
+    "id": 4,
+    "name": "Spray Perfumado",
+    "price": 48.00,
+    "category": "sprays",
+    "featured": true,
+    "description": "Refrescante e elegante...",
+    "image": "/src/assets/images/spray.jpeg"
+  },
+  {
+    "id": 5,
+    "name": "Vela Aromática Lavanda",
+    "price": 15.00,
+    "category": "velas",
+    "featured": true,
+    "description": "Aroma suave e relaxante...",
+    "image": "/src/assets/images/vela.jpeg"
+  },
+  {
+    "id": 6,
+    "name": "Difusor Floral",
+    "price": 65.00,
+    "category": "difusores",
+    "featured": true,
+    "description": "Perfume delicado...",
+    "image": "/src/assets/images/difusor.jpeg"
+  },
+  {
+    "id": 7,
+    "name": "Lembrancinha Aromática",
+    "price": 30.00,
+    "category": "lembrancinhas",
+    "featured": true,
+    "description": "Pequenos frascos perfumados...",
+    "image": "/src/assets/images/lembrancinha.jpeg"
+  },
+  {
+    "id": 8,
+    "name": "Spray Perfumado",
+    "price": 28.00,
+    "category": "sprays",
+    "featured": true,
+    "description": "Refrescante e elegante...",
+    "image": "/src/assets/images/spray.jpeg"
+  }
+]
