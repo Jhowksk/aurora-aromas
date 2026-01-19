@@ -30,7 +30,7 @@ function Navbar() {
 
   const navLinks = [
     { path: "/", label: "Início" },
-    { path: "/contact", label: "Contato" },
+    { path: "/contact", label: "Contato" }
   ];
 
   return (

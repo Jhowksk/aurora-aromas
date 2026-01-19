@@ -47,7 +47,7 @@ function Hero() {
           className="relative hidden md:block"
         >
           <img 
-            src="/src/assets/images/hero-woman.png" 
+            src="/hero-woman.png"   
             alt="Produtos Aromáticos"
             className="relative z-10 w-full h-[500px] object-cover rounded-2xl shadow-2xl"
           />
